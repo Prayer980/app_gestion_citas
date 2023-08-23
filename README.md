@@ -1,13 +1,12 @@
 # app_gestion_citas
 
-Es un proyecto creado con WPF en el que se puede:
-- Dar de alta a clientes.
-- Dar citas a dichos clientes.
-- Filtrar las citas que se han realizado o las que quedan por realizar.
-- Eliminar citas a los clientes.
-- Eliminar clientes.
-
-Cuenta con una base de datos SQL Server para guardar toda esa información
+aplicación de escritorio que gestiona citas y clientes.
+Contiene interfaz gráfica moderna y atractiva utilizando controles de la librería DevExpress.
+Las principales funciones de la aplicación son las siguientes:
+•	Registro y seguimiento de los clientes.
+•	Programación y seguimiento de citas con fecha y hora de inicio y finalización.
+•	Mensaje de confirmación al cerrar para evitar pérdida de datos.
+•	Conexión a base de datos SQL Server para almacenamiento y recuperación de información de clientes y citas.
 
 Interfaz Inicio
 
